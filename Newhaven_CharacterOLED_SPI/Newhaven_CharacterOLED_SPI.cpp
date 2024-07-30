@@ -5,6 +5,7 @@
  /and command set derived from LiquidCrystal by David Mellis
  / Richard Blair
  / 07/2024
+ / v 1.0.0
  /delay needed for ESP32 implementation versus Arduino Mega
  /command and write have delayMicroseconds(500) needed to allow Esp32 to slow its communication down
  /send and write4bits have assembler NOP added to cause a 1 clock cycle delay again needed for ESP32 to work reliably
