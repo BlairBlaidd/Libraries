@@ -5,6 +5,7 @@
  /and command set derived from LiquidCrystal by David Mellis
  / Richard Blair
  / 07/2024
+ / v 1.0.0
  *
  */
 
