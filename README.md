@@ -39,7 +39,7 @@ JCS1	X<br>
 JCS2	X<br>
 <br>
 ### *Serial MPU*
-*SPI*
+*SPI*<br>
 H_PS_L	L<br>
 J68_J80	X<br>
 H_SHL_L	H<br>
