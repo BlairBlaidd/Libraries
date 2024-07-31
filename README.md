@@ -1,8 +1,8 @@
 # Newhaven_CharacterOLED_SPI
-Overview<br>
+#Overview<br>
 Implementation of SPI communication on Newhaven DZW series of OLED character displays.  These are amazingly bright and readable displays, but come with parallel interface by default.  Port expander implementation over I2C produced unacceptably slow refreshes.  These displays are able to accept SPI input with a few jumper changes.<br>
 
-Compatability<br>
+#Compatability<br>
 This library should be compatible with all Newhaven Display DZW series<br>
 NHD-0220DZW-AY5, 5V 2x20 Character Yellow<br>
 NHD-0220DZW-AG5, 5V 2x20 Character Green<br>
@@ -14,7 +14,7 @@ NHD-0420DZW-AY3, 3.3V 4x20 Character Yellow<br>
 NHD-0420DZW-AG3, 3.3V 4x20 Character Green<br>
 NHD-0420DZW-AB3, 3.3V 4x20 Character Blue<br>
 <br>
-Limitations<br>
+#Limitations<br>
 This library revision only supports one way communication to the display.<br>
 <br>
 Implementation<br>
