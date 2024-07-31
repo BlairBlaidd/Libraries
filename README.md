@@ -27,7 +27,8 @@ Remove 0 ohm jumper resistor H_CS2_L<br>
 Add 0 ohm jumper resistor to JCS1 (or your favorite shorting method)<br>
 Add 0 ohm jumper resistor to JCS2 (or your favorite shorting method)<br>
 <br>
-### Parallel 6800-MPU (page 4 data sheet)<br>
+### *Parallel 6800-MPU*<br>
+*page 4 on the data sheet*
 default <br>
 H_PS_L	H<br>
 J68_J80	J68<br>
@@ -37,7 +38,8 @@ H_CS2_L	H<br>
 JCS1	X<br>	
 JCS2	X<br>
 <br>
-### Serial MPU (SPI)<br>
+### *Serial MPU*<br>
+*SPI*
 H_PS_L	L<br>
 J68_J80	X<br>
 H_SHL_L	H<br>
