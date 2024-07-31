@@ -1,5 +1,5 @@
 # Newhaven_CharacterOLED_SPI
-#Overview<br>
+Overview**<br>
 Implementation of SPI communication on Newhaven DZW series of OLED character displays.  These are amazingly bright and readable displays, but come with parallel interface by default.  Port expander implementation over I2C produced unacceptably slow refreshes.  These displays are able to accept SPI input with a few jumper changes.<br>
 
 #Compatability<br>
